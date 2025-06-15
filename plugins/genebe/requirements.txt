@@ -1,3 +1,4 @@
 genebe==0.0.17
 cyvcf2==0.30.28
 mmh3==4.1.0
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
